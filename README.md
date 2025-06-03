@@ -1,5 +1,5 @@
-# Belajar Spring Dasar
+# Default Template Spring Dasar
 
-by Programmer Zaman Now
+by Andrea
 
 # Trigger jenkins
